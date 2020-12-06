@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+        background: linear-gradient(#b3f518, #f7bd1b, #0e529c, #e5ed07, #2cf5a1, #1bf254, #410c75, #9eed15);
+}
+img{
+border-radius: 50%;
+    width: 100px;
+}
+.menu{
+    list-style: none;
+    font-family:cursive;
+    float:right;
+    top:10px;
+        right:30px;
+    cursor:pointer;
+    color:black;
+    
+}
